@@ -5,6 +5,7 @@ branches:
   only:
     - master
     - develop  # PRs are built
+    - vcpkg-fix
 
 # environment: 
 #   APPVEYOR_SAVE_CACHE_ON_ERROR: true
